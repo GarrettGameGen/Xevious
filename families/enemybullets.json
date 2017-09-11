@@ -1,0 +1,1 @@
+{"name":"EnemyBullets","plugin-id":"Sprite","sid":589151787622549,"instanceVariables":[{"name":"damage","type":"number","desc":"","sid":689853975216870}],"behaviorTypes":[{"behaviorId":"Bullet","name":"Bullet","sid":824144109764680}],"effectTypes":[],"members":["enemyBullet1","enemyBullet2","turretBullet"]}

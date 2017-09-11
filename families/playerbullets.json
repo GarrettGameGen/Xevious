@@ -1,0 +1,1 @@
+{"name":"PlayerBullets","plugin-id":"Sprite","sid":867518045575943,"instanceVariables":[{"name":"damage","type":"number","desc":"","sid":572214403651440},{"name":"enemyHit","type":"boolean","desc":"","sid":434375768651801}],"behaviorTypes":[],"effectTypes":[],"members":["playerBulletSingle","playerBulletGreen","playerBulletSine"]}

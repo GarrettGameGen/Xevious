@@ -1,0 +1,1 @@
+{"name":"wayPointText","plugin-id":"Text","sid":114351349851512,"isGlobal":false,"instanceVariables":[{"name":"SendTo","type":"string","desc":"","sid":965954066857496},{"name":"ScrollWith","type":"boolean","desc":"","sid":862020626822212}],"behaviorTypes":[{"behaviorId":"Pin","name":"Pin","sid":784228659078615}],"effectTypes":[]}

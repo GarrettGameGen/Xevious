@@ -1,0 +1,1 @@
+{"name":"backgroundMenu","plugin-id":"Tilemap","sid":647385636992204,"isGlobal":false,"instanceVariables":[],"behaviorTypes":[{"behaviorId":"wrap","name":"Wrap","sid":559388113161423}],"effectTypes":[],"image":{"width":160,"height":32,"originX":0.5,"originY":0.5,"originalSource":"","exportFormat":"png","exportQuality":0.8,"imageSpriteId":12},"tile-collision-polys":{}}
