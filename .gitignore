@@ -1,0 +1,5 @@
+# Packages #
+*.c3p
+
+# Ui Config #
+*.uistate.json
